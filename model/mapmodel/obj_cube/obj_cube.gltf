@@ -104,7 +104,7 @@
     "buffers":[
         {
             "byteLength":840,
-            "uri":"media/model/mapmodel/obj_cube/obj_cube.bin"
+            "uri":"obj_cube.bin"
         }
     ]
 }
